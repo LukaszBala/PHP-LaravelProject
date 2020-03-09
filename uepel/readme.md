@@ -1,21 +1,4 @@
 # Witryna do zajeć Proj Proj
-
-Do ogarniecia:
-
-    TO DO:
-    
-    IN PROGRESS-cofanie do strony poprzedniej
-
-    -zabezpieczenie wyswietlania przedmiotow danego naucyzciela
-    
-    IN PROGRESS-testy
- 
-    IN PROGRESS-panel szczegolow przedmiotow w studencie
-    
-    IN PROGRESS - FRONTEND
-    
-    
-    SZIET ZACZYNAM BYC PRZYTLOCZONY ILOSCIA RZECZY DO ZROBIENIA
     
     
 
