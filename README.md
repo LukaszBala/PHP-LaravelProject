@@ -1,4 +1,4 @@
-#Platform for managing classes for students and teachers
+# "Platform for managing classes for students and teachers"
 
 PHP with Laravel framework, MySql database and Codeception. Project created for the "Advanced PHP Programming" subject in the team of 4 students, including me.
 
